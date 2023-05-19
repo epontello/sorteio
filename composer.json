@@ -1,0 +1,19 @@
+{
+    "name": "jorge/mvc",
+    "authors": [
+        {
+          "name": "Elder Mosé Pontello",
+          "email": "epontello@hotmail.com"
+        }
+        
+    ],
+    
+    "description": "Projeto Demonstrativo MVC",
+    "autoload": {
+      "psr-4": {
+        "Core\\": "Core/",
+        "Controllers\\": "Controllers/",
+        "Models\\": "Models"
+      }
+    }
+}
