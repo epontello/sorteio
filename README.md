@@ -1,4 +1,4 @@
-# sorteio
+# Sorteio de Números Aleatórios PHP/Html/Javascript
 Sistema de Sorteio de Números Aleatórios
 
 Esta aplicação foi criada com o intuito de efetuar o sorteio de brindes entre os colaboradores da empresa.
